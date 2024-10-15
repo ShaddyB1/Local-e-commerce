@@ -264,9 +264,7 @@ FROM
 GROUP BY 
     u.UserID;
     
-    SELECT * FROM vw_customer_segmentation WHERE UserID = 10;
-
-  
+    
   
   
 
